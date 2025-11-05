@@ -550,4 +550,3 @@ If this project helped you, please give it a ⭐️ on GitHub!
 
 ---
 
-**Made with ❤️ and 🤖 AI**
