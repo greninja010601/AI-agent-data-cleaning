@@ -1,0 +1,99 @@
+student_id,name,age,gender,department,gpa,attendance_percent,assignments_submitted,final_exam_score,graduated
+S1000,Ivan,20,Male,Computer Science,3.62,83.0,6,64,Yes
+S1001,Hannah,21,Male,Computer Science,3.14,81.0,7,95,Yes
+S1002,Ivan,20,Other,Computer Science,2.92,100.0,10,72,No
+S1003,Hannah,22,Female,Computer Science,1.73,97.0,8,77,No
+S1004,Frank Jr.,20,Male,Mathematics,2.42,74.0,8,92,Yes
+S1005,David Jr.,20,Male,Mathematics,2.16,89.0,9,45,Yes
+S1006,Bob,20,Male,Economics,2.11,94.0,6,97,Yes
+S1007,Bob,20,Female,Computer Science,3.93,77.0,8,83,Yes
+S1008,Alice,22,Other,Biology,2.48,50.0,8,84,No
+S1009,Bob,21,Other,Computer Science,3.73,65.0,10,71,Yes
+S1010,Hannah Sr.,20,Female,Computer Science,3.08,88.0,9,84,Yes
+S1011,Grace,20,Other,Physics,3.49,54.0,10,100,Yes
+S1012,Frank,20,Male,Mathematics,2.76,71.0,8,86,Yes
+S1013,Ivan,23,Male,Biology,2.94,78.0,9,60,Yes
+S1015,Ivan,19,Other,Economics,1.99,52.0,8,93,Yes
+S1016,Charlie Sr.,20,Female,Computer Science,3.31,61.0,7,60,Yes
+S1017,Grace,23,Female,Chemistry,2.2,75.0,5,50,No
+S1018,Hannah,19,Female,Computer Science,1.56,65.0,7,99,Yes
+S1019,Bob,22,Male,Computer Science,3.11,100.0,8,76,Yes
+S1020,Charlie Jr.,18,Male,Computer Science,1.94,86.0,6,75,Yes
+S1021,Hannah,23,Other,Economics,3.85,71.0,5,74,Yes
+S1022,Frank Jr.,20,Other,Computer Science,3.88,78.0,8,58,Yes
+S1023,David,18,Male,Biology,3.79,63.0,8,59,No
+S1024,Grace Jr.,20,Female,Chemistry,2.43,77.0,8,96,Yes
+S1025,Ivan,20,Male,Mathematics,1.54,54.0,9,57,Yes
+S1026,Ivan,21,Female,Economics,3.82,96.0,5,86,No
+S1027,Ivan Jr.,20,Female,Economics,2.57,98.0,8,80,Yes
+S1028,Julia,20,Male,Computer Science,3.92,79.0,8,88,Yes
+S1029,Grace Jr.,22,Other,Comp Sci,3.91,95.0,10,53,Yes
+S1030,Frank Sr.,20,Other,Economics,3.63,77.0,7,54,Yes
+S1031,Bob,20,Male,Physics,2.24,54.0,10,70,Yes
+S1032,Alice Sr.,22,Other,Chemistry,2.46,61.0,5,40,Yes
+S1033,Grace Sr.,20,Male,Chemistry,3.63,65.0,5,92,Yes
+S1034,Grace,20,Male,Physics,2.29,75.0,8,93,Yes
+S1035,Grace,19,Female,Bio,1.92,75.0,10,93,Yes
+S1036,Ivan,21,Male,Physics,2.89,97.0,10,42,Yes
+S1037,Julia Sr.,20,Other,Physics,3.84,70.0,7,55,Yes
+S1038,Bob,19,Male,Chemistry,3.24,88.0,5,62,No
+S1039,David Jr.,20,Male,Computer Science,2.93,85.0,8,96,No
+S1040,Eve Sr.,22,Female,Chemistry,1.74,82.0,10,50,Yes
+S1041,Bob,19,Female,Comp Sci,3.04,79.0,7,51,Yes
+S1042,Eve,21,Female,Computer Science,3.98,86.0,10,49,Yes
+S1043,Charlie Sr.,20,Female,Computer Science,1.85,72.0,8,71,Yes
+S1044,Alice,20,Male,Computer Science,2.8,59.0,8,55,Yes
+S1045,Julia,20,Female,Mathematics,3.69,100.0,7,47,Yes
+S1046,Eve,18,Male,Computer Science,3.35,54.0,9,77,Yes
+S1047,Frank Jr.,21,Male,Computer Science,3.24,85.0,9,51,Yes
+S1048,Alice,19,Female,Comp Sci,3.26,83.0,7,63,Yes
+S1049,Julia,20,Female,Comp Sci,2.4,77.0,10,67,Yes
+S1050,Julia Sr.,21,Female,Mathematics,2.23,80.0,8,92,No
+S1051,Charlie Sr.,19,Female,Computer Science,3.52,59.0,9,47,Yes
+S1052,Alice Jr.,23,Female,Bio,3.53,68.0,8,97,Yes
+S1053,Grace,23,Female,Physics,3.67,81.0,9,67,Yes
+S1054,David,21,Female,Computer Science,3.78,50.0,8,75,No
+S1055,Bob Sr.,23,Female,Bio,2.78,54.0,10,65,No
+S1056,Hannah,19,Male,Comp Sci,2.75,94.0,8,47,No
+S1057,Eve,19,Female,Chemistry,3.5,53.0,9,97,No
+S1058,Hannah Sr.,21,Other,Computer Science,3.12,65.0,8,99,Yes
+S1059,David,20,Female,Mathematics,3.25,73.0,9,89,No
+S1060,Julia,20,Male,Computer Science,3.49,65.0,7,67,Yes
+S1062,David,20,Female,Biology,2.34,51.0,6,76,No
+S1063,Julia,22,Male,Computer Science,2.44,98.0,10,80,No
+S1064,Bob,19,Male,Comp Sci,1.73,77.0,5,75,Yes
+S1065,Bob,22,Male,Comp Sci,2.95,81.0,10,72,Yes
+S1066,Frank Jr.,20,Male,Physics,1.59,76.0,8,66,Yes
+S1067,Charlie,20,Female,Physics,2.66,69.0,8,93,Yes
+S1068,Grace,20,Male,Physics,2.86,73.0,10,72,No
+S1069,Bob,18,Female,Chemistry,2.22,61.0,6,56,No
+S1070,Hannah Sr.,20,Male,Computer Science,2.98,99.0,6,48,Yes
+S1071,Julia Jr.,20,Male,Economics,1.58,84.0,9,72,Yes
+S1072,Julia,20,Male,Computer Science,1.59,82.0,9,92,No
+S1073,Hannah Jr.,20,Other,Computer Science,3.56,82.0,10,59,Yes
+S1074,Alice,18,Female,Computer Science,2.4,100.0,7,52,Yes
+S1075,Grace Sr.,20,Male,Chemistry,1.82,92.0,8,67,Yes
+S1076,Frank,20,Male,Computer Science,2.81,86.0,5,87,Yes
+S1077,Eve,20,Female,Computer Science,3.42,61.0,10,68,Yes
+S1078,Grace,18,Male,Chemistry,2.04,52.0,8,52,Yes
+S1079,Frank Jr.,20,Male,Economics,3.06,50.0,5,85,No
+S1080,Alice Jr.,20,Male,Computer Science,1.71,82.0,8,74,Yes
+S1081,Charlie Jr.,20,Female,Chemistry,1.63,89.0,10,100,Yes
+S1082,David Sr.,18,Female,Physics,2.83,59.0,8,45,Yes
+S1083,Julia,22,Other,Comp Sci,2.85,92.0,8,57,Yes
+S1084,Eve,20,Male,Physics,3.09,93.0,10,90,Yes
+S1085,Charlie,20,Female,Comp Sci,3.32,78.0,7,72,Yes
+S1086,Grace Sr.,20,Male,Mathematics,3.94,62.0,10,44,Yes
+S1087,Frank Jr.,20,Female,Mathematics,2.79,61.0,8,86,No
+S1088,Ivan,20,Male,Mathematics,2.31,80.0,7,64,Yes
+S1089,Bob,19,Female,Economics,3.49,95.0,8,41,Yes
+S1090,Eve,18,Male,Physics,2.18,51.0,7,49,Yes
+S1091,Ivan Jr.,20,Female,Comp Sci,2.6,100.0,6,95,Yes
+S1092,Julia,20,Female,Chemistry,1.7,99.0,8,69,No
+S1093,David,20,Female,Computer Science,1.56,84.0,8,89,No
+S1094,Charlie Sr.,22,Female,Chemistry,3.91,72.0,10,98,No
+S1095,Hannah,20,Other,Computer Science,3.59,66.0,8,84,Yes
+S1096,David,20,Female,Biology,3.24,75.0,5,44,No
+S1097,Julia Sr.,23,Male,Chemistry,2.52,57.0,7,94,No
+S1098,Bob,20,Male,Computer Science,1.93,78.0,10,95,No
+S1099,Alice,18,Male,Computer Science,1.89,75.0,5,72,Yes

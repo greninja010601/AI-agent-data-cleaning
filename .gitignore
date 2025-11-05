@@ -1,0 +1,39 @@
+﻿# Environment variables (IMPORTANT - Don't commit API keys!)
+.env
+
+# Virtual environment
+ai_data_cleaning_env/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Data files (can be large)
+data/*.csv
+data/*.xlsx
+data/*.xls
+uploads/
+cleaned/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
